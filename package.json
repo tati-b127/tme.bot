@@ -1,0 +1,1 @@
+{"type":"module","dependencies":{"node-schedule":"^2.1.1","node-telegram-bot-api":"^0.61.0","telegram-inline-calendar":"^2.0.6"}}
